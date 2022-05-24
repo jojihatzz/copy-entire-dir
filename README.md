@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Run
 
 ```sh
-python bot.py
+python copy.py
 ```
 
 ## NOTES
